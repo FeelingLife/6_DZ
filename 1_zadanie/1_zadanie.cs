@@ -23,6 +23,25 @@ void outputSkrin()
 
 outputSkrin();
 
+// int NewPositiveNumbers(int[] array)
+// {
+//     int positiveNumbers = 0;
+//     for (int i = 0; i < array.Length; i++)
+//     {
+//         if (array[i] > 0)
+//         {
+//             positiveNumbers ++;
+//         }
+//         return positiveNumbers;
+//     }
+// }
+
+// Console.WriteLine($"укпукп {NewPositiveNumbers}");
+
+
+
+
+
 
 int positiveNumbers = 0;
 for (int i = 0; i < array.Length; i++)
